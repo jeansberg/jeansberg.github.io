@@ -1,6 +1,16 @@
 Hello! This is my personal Github page. Read on for more details about my projects.
 
 # Projects
+## [Space Pirates!](https://github.com/jeansberg/SpacePirates)
+Space Pirates! was an entry in the fourth *Dragon Jam* game jam. I had the privilege to work with a game designer, an artist and a composer - all very talented people! The entry was uploaded to [itch.io](https://18dramos.itch.io/space-pirates).
+> Goal: Travel from point to point looking for the secret key and fight pirates along the way. Upgrade your ship with better stats and weapons to become strong enough to defeat the final boss. Find cities and merchants to repair your ship.
+
+* Design: Diego Ramos
+* Art: Gillian Sneve
+* Sound: Coatedpolecat
+
+![alt text](https://github.com/jeansberg/jeansberg.github.io/blob/master/tuts.gif "Tutorial screens for Space Pirates!")
+
 ## [Walk and Talk](https://github.com/jeansberg/WalkAndTalk)
 Walk and Talk was initially developed as an entry for *My First Game Jam: Summer 2017*. Original idea, design and writing is done by [Airova](https://www.youtube.com/channel/UCtaSP80xWusu4QYIdQ2oQOw).
 
@@ -17,7 +27,7 @@ The Great Deep is a side-scrolling shooter game prototype I made in order to lea
 4. [Animations and Particles](https://dev.to/jeansberg/make-a-shooter-in-lualove2d---animations-and-particles)
 5. [Music and Sound Effects](https://dev.to/jeansberg/make-a-shooter-in-lualove2d---music-and-sound-effects)
 
-![alt text](https://thepracticaldev.s3.amazonaws.com/i/tkyaysrbzx050gehju4m.gif "So much eyecandy!")
+![alt text](https://thepracticaldev.s3.amazonaws.com/i/tkyaysrbzx050gehju4m.gif "Submarine shooting sea creatures.")
 
 # Contact
 You can find my contact information on [LinkedIn](https://www.linkedin.com/in/jensgenberg/).
