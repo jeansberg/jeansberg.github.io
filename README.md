@@ -9,7 +9,7 @@ Space Pirates! was an entry in the fourth *Dragon Jam* game jam. I had the privi
 * Art: Gillian Sneve
 * Sound: Coatedpolecat
 
-![](https://github.com/jeansberg/jeansberg.github.io/blob/master/tuts.gif)
+![](https://jeansberg.github.io/tuts.gif)
 
 ## [Walk and Talk](https://github.com/jeansberg/WalkAndTalk)
 Walk and Talk was initially developed as an entry for *My First Game Jam: Summer 2017*. Original idea, design and writing is done by [Airova](https://www.youtube.com/channel/UCtaSP80xWusu4QYIdQ2oQOw).
